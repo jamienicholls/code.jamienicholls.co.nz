@@ -1,4 +1,4 @@
 # code.jamienicholls.co.nz
 code.jamienicholls.co.nz
 
-Hello World
+To edit the content go to here: https://github.com/jamienicholls/code.jamienicholls.co.nz
